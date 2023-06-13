@@ -1,5 +1,5 @@
-import {Status} from "./status";
+import { Status } from '@prisma/client';
 
 const foo = {
-    bar: Status.PENDING
+    bar: Status.FOO
 }
